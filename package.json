@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/indexregex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Index CSV/TSV regex tables for quick inspection and cleanup.",
+  "bin": {
+    "indexregex": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/indexregex.git"
+  },
+  "homepage": "https://theworker02.github.io/indexregex/",
+  "keywords": [
+    "index",
+    "regex",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
